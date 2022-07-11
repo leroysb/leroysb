@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Leroy, an applied scientist.
-- 👀 I’m interested in data science
-- 🌱 currently learning machine learning
+- 👋 Hi, I’m Leroy, a certified data scientist and financial analyst.
+- 👀 I’m interested in machine learning
+- 🌱 currently learning software engineering.
